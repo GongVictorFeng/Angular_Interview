@@ -19,3 +19,6 @@ const user: UserInterface = {
     return `${this.name} is  ${this.age}`;
   },
 };
+
+// What is the Interface in TypeScript
+// it is a possibility to describe some objects with data that we can reuse everywhere
